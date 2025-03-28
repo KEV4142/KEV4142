@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kevin and I'm a freelancer, from Honduras.</h2>
+<h2 align="left">Hi, My name is Kevin and I'm a freelancer.</h2>
 
 ###
 
